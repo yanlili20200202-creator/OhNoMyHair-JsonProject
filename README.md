@@ -60,7 +60,9 @@ assets/cursorBrush.png
 
 ## How to Run
 
-Open the project folder in VSCode.
+Open from render link.
+
+Or open the project folder in VSCode.
 
 Use a local server to run the project.
 
