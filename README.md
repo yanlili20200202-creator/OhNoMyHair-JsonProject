@@ -1,6 +1,6 @@
 # OhNoMyHair-JsonProject
 From a female who has long hair.
-
+![Project screenshot](1.png)
 
 ## Project Description
 
@@ -37,6 +37,14 @@ This project was made with p5.js in VSCode.
 The data is stored in a JSON file. The JSON file organises 92 records. Each record includes the date, time, emotion, and image paths.
 
 The project loads 184 transparent images. It uses arrays to store the images. It also uses a graphics layer to create accumulated traces on the screen.
+
+## Project Process
+
+![Original photo records](3.png)
+
+## Visual Materials
+
+![Hand drawn hair images](2.png)
 
 ## Files
 
