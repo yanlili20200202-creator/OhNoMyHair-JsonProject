@@ -60,7 +60,7 @@ assets/cursorBrush.png
 
 ## How to Run
 
-Open from render link.
+Open from render link.https://ohnomyhair-jsonproject-hary.onrender.com
 
 Or open the project folder in VSCode.
 
